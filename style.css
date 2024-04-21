@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(163, 71, 248);
+}
+
+#score
+{
+    font-size: 40px;
+    float:left;
+    margin-left: 50px;
+}
+
+#timer
+{
+    font-size: 40px;
+    float:right;
+    margin-right: 50px;
+}
+
+#sketch_given
+{
+    color:red ;
+}
+
+#sketch_guess
+{
+    font-size:20px;
+}
+
+#confidence
+{
+    font-size:20px;
+}
